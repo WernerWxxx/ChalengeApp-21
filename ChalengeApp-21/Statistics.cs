@@ -39,7 +39,7 @@
                     default:
                         return 'E';
                 }
-            }//
+            }
         }
         public Statistics()
         {
