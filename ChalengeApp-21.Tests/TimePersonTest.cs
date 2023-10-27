@@ -13,7 +13,7 @@
             employee.AddGrade(540);
 
             // act
-            var statistics = employee.GetStatistics();//
+            var statistics = employee.GetStatistics();
 
             // assert
             Assert.AreEqual(540, statistics.Max);
