@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChalengeApp-21", "ChalengeApp-21\ChalengeApp-21.csproj", "{0ACAC27C-EBB1-4299-AA94-D189FAE0A66A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChalengeApp-21.Tests", "ChalengeApp-21.Tests\ChalengeApp-21.Tests.csproj", "{31573FB5-1ABF-41A7-82AB-2666FC0FE891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ACAC27C-EBB1-4299-AA94-D189FAE0A66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACAC27C-EBB1-4299-AA94-D189FAE0A66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACAC27C-EBB1-4299-AA94-D189FAE0A66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACAC27C-EBB1-4299-AA94-D189FAE0A66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31573FB5-1ABF-41A7-82AB-2666FC0FE891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31573FB5-1ABF-41A7-82AB-2666FC0FE891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31573FB5-1ABF-41A7-82AB-2666FC0FE891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31573FB5-1ABF-41A7-82AB-2666FC0FE891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DA7EBFA-4BF5-4B31-AA0D-544770CD114B}
+	EndGlobalSection
+EndGlobal
