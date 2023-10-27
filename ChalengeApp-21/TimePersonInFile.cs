@@ -1,7 +1,4 @@
-﻿//using static ChalengeApp_21.TimePersonBase;//
-
-namespace ChalengeApp_21
-{
+﻿{
     public class TimePersonInFile : TimePersonBase
     {
         public override event GradeAddedDelegate GradeAdded;

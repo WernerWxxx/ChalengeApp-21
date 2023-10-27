@@ -1,12 +1,9 @@
-﻿//using static ChalengeApp_21.TimePersonBase;
-namespace ChalengeApp_21
-{
+﻿{
     public abstract class TimePersonBase : ITimePerson
     {
         public delegate void GradeAddedDelegate(object sender, EventArgs args);
 
         public abstract event GradeAddedDelegate GradeAdded;
-        public TimePersonBase(string name, string surname)
         {
             this.Name = name;
             this.Surname = surname;

@@ -1,6 +1,4 @@
-﻿using static ChalengeApp_21.TimePersonBase;
-
-namespace ChalengeApp_21
+﻿
 {
     public interface ITimePerson
     {
@@ -8,7 +6,6 @@ namespace ChalengeApp_21
 
         string Surname { get; }
 
-        //int Age { get; }
 
         void AddGrade(float grade);
 

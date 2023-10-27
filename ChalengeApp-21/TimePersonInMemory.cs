@@ -1,5 +1,4 @@
-﻿namespace ChalengeApp_21//
-{
+﻿{
     public class TimePersonInMemory : TimePersonBase
     {
         public override event GradeAddedDelegate GradeAdded;
@@ -53,7 +52,7 @@
                 AddGrade(result);
             }
         }
-
+        
 
         public override Statistics GetStatistics()
         {
